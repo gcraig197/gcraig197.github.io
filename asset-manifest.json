@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b44463e.chunk.css",
+    "main.js": "/static/js/main.bab86498.chunk.js",
+    "main.js.map": "/static/js/main.bab86498.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.94155858.chunk.css": "/static/css/2.94155858.chunk.css",
+    "static/js/2.8092b997.chunk.js": "/static/js/2.8092b997.chunk.js",
+    "static/js/2.8092b997.chunk.js.map": "/static/js/2.8092b997.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.42bb36ea5c6133502203d8b4654459bf.js": "/precache-manifest.42bb36ea5c6133502203d8b4654459bf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.94155858.chunk.css.map": "/static/css/2.94155858.chunk.css.map",
+    "static/css/main.9b44463e.chunk.css.map": "/static/css/main.9b44463e.chunk.css.map",
+    "static/media/Giant_squirrel_pet.png": "/static/media/Giant_squirrel_pet.549c9ad4.png",
+    "static/media/apartment-chair-contemporary-509922.jpg": "/static/media/apartment-chair-contemporary-509922.586cb87c.jpg",
+    "static/media/architecture-astronomy-bird-s-eye-view-1820563.jpg": "/static/media/architecture-astronomy-bird-s-eye-view-1820563.2466b160.jpg",
+    "static/media/buildings-clear-sky-exterior-374023.jpg": "/static/media/buildings-clear-sky-exterior-374023.a853a9b9.jpg",
+    "static/media/cup-desk-drink-434337.jpg": "/static/media/cup-desk-drink-434337.b4d3fd83.jpg",
+    "static/media/device-electronics-keyboard-872958.jpg": "/static/media/device-electronics-keyboard-872958.c1598b33.jpg",
+    "static/media/honours-app-3-displays-01.png": "/static/media/honours-app-3-displays-01.2f669cfd.png",
+    "static/media/honours-project-displays.jpg": "/static/media/honours-project-displays.c267d1b3.jpg",
+    "static/media/iphone-app-mockups-01.png": "/static/media/iphone-app-mockups-01.ef555e18.png",
+    "static/media/index.css": "/static/media/roboto-latin-900italic.bc833e72.woff",
+    "static/media/swshr-jumpers.jpg": "/static/media/swshr-jumpers.a6330e57.jpg",
+    "static/media/swshr-tee-shirts.JPG": "/static/media/swshr-tee-shirts.1f123d23.JPG"
+  }
+}
